@@ -1,0 +1,11 @@
+lang,n,vars,build_s,solve_s
+pyomo,50,2500,0.013,0.163
+gurobipy,50,2500,0.017,nan
+pyomo,100,10000,0.045,0.145
+gurobipy,100,10000,0.058,nan
+pyomo,200,40000,0.203,0.616
+gurobipy,200,40000,0.241,nan
+pyomo,400,160000,1.029,2.463
+gurobipy,400,160000,0.976,nan
+pyomo,800,640000,4.121,nan
+gurobipy,800,640000,4.189,nan
